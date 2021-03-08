@@ -1,5 +1,5 @@
 import java.util.Random;
-public class Random1
+public class Random2
 {
    public static void main(String[] args) {
        
